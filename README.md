@@ -4,8 +4,8 @@
 ## hello woong!👋 [Backend&DevOps Engineer]
 
 ### 🔥 Experience
-- KEA SW Acadamy - 집중프로젝트 교육(기업주도, dktechin)
-- KEA SW Acadamy - 집중프로젝트 교육(PBL)
+- KakaoEnterprise SW Academy(KEA) - 집중프로젝트 교육(기업주도, dktechin)
+- KakaoEnterprise SW Academy(KEA) - 집중프로젝트 교육(PBL)
 
 ### 🚀 Activity
 - Terraform - Multi Cloud Orchestartion        

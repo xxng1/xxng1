@@ -1,13 +1,18 @@
-### hello woong! 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sangwoong-park-4a23422b9)](https://www.linkedin.com/in/sangwoong-park-4a23422b9)
+[![GithubBlog](https://img.shields.io/badge/-GithubBlog-6E6E6E?style=round-square&logo=Github&logoColor=white&link=https://xxng1.github.io)](https://xxng1.github.io)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-</p>
+## hello woong! 👋 [Backend&DevOps Engineer]
+
+### 🔥 Experience
+- KEA SW Acadamy - 집중프로젝트 교육(기업주도, dktechin)
+- KEA SW Acadamy - 집중프로젝트 교육(PBL)
+
+### 🚀 Activity
+- Terraform - Multi Cloud Orchestartion        
+- ElasticSearch - Monitoring in a DevOps Environment
+- AWS JAM
+
+### 🪪 Certifications
+<div style="display: flex; flex-direction: row;">
+    <a href="https://www.credly.com/badges/f3d037e2-a9f8-4b7a-ad05-bc174144d196/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
+</div> 

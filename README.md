@@ -8,7 +8,7 @@
 - KakaoEnterprise SW Academy(KEA) - 집중프로젝트 교육(PBL)
 
 ### 🚀 Activity
-- Terraform - Multi Cloud Orchestartion        
+- Terraform - Multi Cloud Orchestration        
 - ElasticSearch - Monitoring in a DevOps Environment
 - AWS JAM
 

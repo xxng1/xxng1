@@ -20,7 +20,7 @@
 
 ### 🪪 Certification
 <div style="display: flex; flex-direction: row;">
-    <a href="https://www.credly.com/badges/f3d037e2-a9f8-4b7a-ad05-bc174144d196/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Developer-white?logo=amazon web services&logoColor=white"></a>
+    <a href="https://www.credly.com/badges/2747935d-9415-4e07-bb92-e55b318f1822/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Developer-white?logo=amazon web services&logoColor=white"></a>
 </div>
 <div style="display: flex; flex-direction: row;">
     <a href="https://www.credly.com/badges/f3d037e2-a9f8-4b7a-ad05-bc174144d196/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solutions Architect-white?logo=amazon web services&logoColor=white"></a>

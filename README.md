@@ -6,14 +6,14 @@
 <!--[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=zzmms8&compact=true)](https://solved.ac/zzmms8)-->
 
 
-### 🚀 Training
+### 🚀 Activity
 - AWS JAM <sub> 2024.09 </sub>
 - Developing Serverless Solutions on AWS <sub> 2024.09 </sub>
 - Amazon SageMaker Studio for Data Scientists <sub> 2024.09 </sub>
-- Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS) <sub> 2024.09 </sub>
+- Running Containers on Amazon Elastic Kubernetes Service <sub> 2024.09 </sub>
 - Security Engineering on AWS <sub> 2024.08 </sub>
 - Developing on AWS <sub> 2024.08 </sub>
-- AWS AI/ML Essentials (Korea ONLY) <sub> 2024.08 </sub>
+- AWS AI/ML Essentials <sub> 2024.08 </sub>
 - Multi Cloud Orchestration (Terraform) <sub> 2023.12 </sub>
 - Monitoring and Testing Implementation in a DevOps Environment (Elastic Stack)  <sub> 2023.11 </sub>
 - AWS JAM <sub> 2023.11 </sub>

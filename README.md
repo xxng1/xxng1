@@ -9,7 +9,6 @@
 ### 🚀 Activity
 - AWS JAM <sub> 2024.09 </sub>
 - Developing Serverless Solutions on AWS <sub> 2024.09 </sub>
-- Amazon SageMaker Studio for Data Scientists <sub> 2024.09 </sub>
 - Running Containers on Amazon Elastic Kubernetes Service <sub> 2024.09 </sub>
 - Security Engineering on AWS <sub> 2024.08 </sub>
 - Developing on AWS <sub> 2024.08 </sub>

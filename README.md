@@ -1,4 +1,4 @@
-#### Certification
+### Certification
 - CKAD: Certified Kubernetes Application Developer (26.01)
 - KCNA: Kubernetes and Cloud Native Associate (25.12)
 - CKA: Certified Kubernetes Administrator (25.07)
@@ -6,10 +6,10 @@
 - AWS Certified Developer - Associate (24.09)
 - AWS Certified Solutions Architect - Associate (24.03)
 
-#### Open Source Contribution
+### Open Source Contribution
 - [sample-OpenClaw-on-AWS-with-Bedrock-#39](https://github.com/aws-samples/sample-OpenClaw-on-AWS-with-Bedrock/pull/39) align bedrock-mantle VPCE deployment with regional support
 
-#### Experience
+### Experience
 - KANANA 429: AI Ambassador (26.03 ~)
 
 

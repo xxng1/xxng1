@@ -9,7 +9,7 @@
 ### Open Source Contribution
 - [sample-OpenClaw-on-AWS-with-Bedrock-#39](https://github.com/aws-samples/sample-OpenClaw-on-AWS-with-Bedrock/pull/39) align bedrock-mantle VPCE deployment with regional support
 
-### Experience
+### Community
 - KANANA 429: AI Ambassador (26.03 ~)
 
 

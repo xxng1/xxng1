@@ -1,4 +1,5 @@
 ### Certification
+- KCSA: Kubernetes and Cloud Native Security Associate (26.03)
 - CKAD: Certified Kubernetes Application Developer (26.01)
 - KCNA: Kubernetes and Cloud Native Associate (25.12)
 - CKA: Certified Kubernetes Administrator (25.07)

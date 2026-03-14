@@ -3,7 +3,7 @@
 - CKAD: Certified Kubernetes Application Developer (26.01)
 - KCNA: Kubernetes and Cloud Native Associate (25.12)
 - CKA: Certified Kubernetes Administrator (25.07)
-- SnowPro Associate: Platform (25.05)
+- SnowPro Associate: Platform Certification (25.05)
 - AWS Certified Developer - Associate (24.09)
 - AWS Certified Solutions Architect - Associate (24.03)
 

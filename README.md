@@ -1,4 +1,5 @@
 ### Certification
+- CKS: Certified Kubernetes Security Specialist (26.09)
 - KCSA: Kubernetes and Cloud Native Security Associate (26.03)
 - CKAD: Certified Kubernetes Application Developer (26.01)
 - KCNA: Kubernetes and Cloud Native Associate (25.12)
@@ -11,7 +12,7 @@
 - [sample-OpenClaw-on-AWS-with-Bedrock-#39](https://github.com/aws-samples/sample-OpenClaw-on-AWS-with-Bedrock/pull/39) align bedrock-mantle VPCE deployment with regional support
 
 ### Community
-- KANANA 429: AI Ambassador (26.03 ~)
+- KANANA 429: Kakao AI Ambassador (26.03 ~ 26.07)
 
 
 

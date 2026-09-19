@@ -1,3 +1,7 @@
+### About
+- Exploring better ways in Cloud Native & DevOps
+- [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=sangwoong-park&_sf_s=sangwoong+park)
+
 ### Certification
 - CKS: Certified Kubernetes Security Specialist (26.09)
 - KCSA: Kubernetes and Cloud Native Security Associate (26.03)
